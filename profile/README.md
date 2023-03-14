@@ -1,4 +1,8 @@
-## Hi there 👋 Welcome to SasanLabs
+## Hi there 👋 Welcome to SasanLabs. 
+
+This is My Kid, My life and you can find all my contributions to community here. 
+
+With Guru Nanak's blessings, I will continue contributing.
 <!--
 
 **Here are some ideas to get you started:**
